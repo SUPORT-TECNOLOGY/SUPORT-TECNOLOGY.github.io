@@ -22,5 +22,5 @@ intro_image_ratio: is-16by9
 
 **_VENTA DE PIEZAS DE COMPUTACION: Contamos con varias piezas de computadoras como disco duros,tarjetas madres,teclados,mouse,ventiladores,ram,etc._**
 
-**_SOPORTE TECNICO: Tenemos operadores que van hasta tu casa para ayudarte a tu problema,lugar donde puede llevar sus aparatos de computo y tambien servicio via telefonico_**
+**_SOPORTE TECNICO: Tenemos operadores que van hasta tu casa para ayudarte a tu problema,lugar donde puede llevar sus aparatos de computo y tambien servicio via telefonico_** 
 
