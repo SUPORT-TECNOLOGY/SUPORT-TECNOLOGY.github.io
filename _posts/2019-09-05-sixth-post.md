@@ -3,23 +3,26 @@ layout:
 title: SERVICIOS
 author: PRESENCIAL, DISTANCIA
 description:
-intro: This is the introduction text for this post. It appears large and bold at the top of the post!
+intro: QUE SERVICIOS TENEMOS
 intro_image: /img/home.jpg
 intro_image_ratio: is-16by9
 ---
 
-Contamos con servicios de conputadoras de mantenimiento.
+"Contamos con servicios de conputadoras de mantenimiento."
 
-an `intro_image` as a path to an image and then specify the `intro_image_ratio` which should be a [Bulma image](https://bulma.io/documentation/elements/image/) class. 
+MANTENIMIENTO PREVENTIVO: Conservación de equipos o instalaciones mediante la realización de revisión y limpieza que garanticen su buen funcionamiento y fiabilidad.
 
-```yaml
-layout: post
-title: Post with Intro
-author: Guest Author
-intro: This is the introduction text for this post. It appears large and bold at the top of the post
-intro_image: /img/home.jpg
-intro_image_ratio: is-16by9
-```
+MANTENIMIENTO CORRETIVO: Corrige los defectos observados en los equipamientos o instalaciones, es la forma más básica de mantenimiento y consiste en localizar averías o defectos para corregirlos o repararlos.
 
-Only the intro is required if you want to display it. If you don't want an image then don't specify one and just the intro text will display.
-  
+MANTENIMIENTO DISTANCIA: El mantenimiento de equipos que puede realizarse a través de internet, de forma remota y segura, donde nosotros solucionamos los problemas que presenta el servidor, la pc o notebook.
+
+MANTENIMIENTO PRESENCIAL: Evitarle al cliente gastos a largo plazo, además de aumentar la eficiencia de los procesos operativos. Cuanto más temprano se haga el diagnóstico de un problema, mejor.
+
+MANTENIMIENTO DE COMPUTADORA: Nosotros ofrecemos el servicio de mantenimiento de computadoras o PC
+
+REPARACION DE COMPUTADORAS: Tambien como problemas que lleguen a tener con sus equipos de computo cualquier cosa que se tenga que cambiar en su equipo de computo nosotros se las cambiamos
+
+VENTA DE PIEZAS DE COMPUTACION: Contamos con varias piezas de computadoras como disco duros,tarjetas madres,teclados,mouse,ventiladores,ram,etc.
+
+SOPORTE TECNICO: Tenemos operadores que van hasta tu casa para ayudarte a tu problema,lugar donde puede llevar sus aparatos de computo y tambien servicio via telefonico
+
