@@ -8,7 +8,7 @@ intro_image: /img/home.jpg
 intro_image_ratio: is-16by9
 ---
 
-"Contamos con servicios de conputadoras de mantenimiento."
+_"Contamos con servicios de conputadoras de mantenimiento."_
 
 MANTENIMIENTO PREVENTIVO: Conservación de equipos o instalaciones mediante la realización de revisión y limpieza que garanticen su buen funcionamiento y fiabilidad.
 
