@@ -3,7 +3,7 @@ layout:
 title: SERVICIOS
 author: PRESENCIAL, DISTANCIA
 description:
-intro: QUE SERVICIOS TENEMOS
+intro: ¿QUE SERVICIOS TENEMOS?
 intro_image: /img/home.jpg
 intro_image_ratio: is-16by9
 ---
