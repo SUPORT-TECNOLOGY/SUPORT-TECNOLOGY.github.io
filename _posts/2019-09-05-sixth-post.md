@@ -1,14 +1,11 @@
 --- 
-layout: 
 title: SERVICIOS
 author: PRESENCIAL, DISTANCIA
-description:
 intro: ¿QUE SERVICIOS TENEMOS?
 intro_image: /img/home.jpg
 intro_image_ratio: is-16by9
 ---
 
-**_Contamos con servicios de computadoras de mantenimiento._**
 
 **_MANTENIMIENTO PREVENTIVO: Conservación de equipos o instalaciones mediante la realización de revisión y limpieza que garanticen su buen funcionamiento y fiabilidad._**
 
