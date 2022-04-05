@@ -8,21 +8,21 @@ intro_image: /img/home.jpg
 intro_image_ratio: is-16by9
 ---
 
-_"Contamos con servicios de conputadoras de mantenimiento."_
+**_Contamos con servicios de conputadoras de mantenimiento._**
 
-MANTENIMIENTO PREVENTIVO: Conservación de equipos o instalaciones mediante la realización de revisión y limpieza que garanticen su buen funcionamiento y fiabilidad.
+**_MANTENIMIENTO PREVENTIVO: Conservación de equipos o instalaciones mediante la realización de revisión y limpieza que garanticen su buen funcionamiento y fiabilidad._**
 
-MANTENIMIENTO CORRETIVO: Corrige los defectos observados en los equipamientos o instalaciones, es la forma más básica de mantenimiento y consiste en localizar averías o defectos para corregirlos o repararlos.
+**_MANTENIMIENTO CORRETIVO: Corrige los defectos observados en los equipamientos o instalaciones, es la forma más básica de mantenimiento y consiste en localizar averías o defectos para corregirlos o repararlos._**
 
-MANTENIMIENTO DISTANCIA: El mantenimiento de equipos que puede realizarse a través de internet, de forma remota y segura, donde nosotros solucionamos los problemas que presenta el servidor, la pc o notebook.
+**_MANTENIMIENTO DISTANCIA: El mantenimiento de equipos que puede realizarse a través de internet, de forma remota y segura, donde nosotros solucionamos los problemas que presenta el servidor, la pc o notebook._**
 
-MANTENIMIENTO PRESENCIAL: Evitarle al cliente gastos a largo plazo, además de aumentar la eficiencia de los procesos operativos. Cuanto más temprano se haga el diagnóstico de un problema, mejor.
+**_MANTENIMIENTO PRESENCIAL: Evitarle al cliente gastos a largo plazo, además de aumentar la eficiencia de los procesos operativos. Cuanto más temprano se haga el diagnóstico de un problema, mejor._**
 
-MANTENIMIENTO DE COMPUTADORA: Nosotros ofrecemos el servicio de mantenimiento de computadoras o PC
+**_MANTENIMIENTO DE COMPUTADORA: Nosotros ofrecemos el servicio de mantenimiento de computadoras o PC_**
 
-REPARACION DE COMPUTADORAS: Tambien como problemas que lleguen a tener con sus equipos de computo cualquier cosa que se tenga que cambiar en su equipo de computo nosotros se las cambiamos
+**_REPARACION DE COMPUTADORAS: Tambien como problemas que lleguen a tener con sus equipos de computo cualquier cosa que se tenga que cambiar en su equipo de computo nosotros se las cambiamos_**
 
-VENTA DE PIEZAS DE COMPUTACION: Contamos con varias piezas de computadoras como disco duros,tarjetas madres,teclados,mouse,ventiladores,ram,etc.
+**_VENTA DE PIEZAS DE COMPUTACION: Contamos con varias piezas de computadoras como disco duros,tarjetas madres,teclados,mouse,ventiladores,ram,etc._**
 
-SOPORTE TECNICO: Tenemos operadores que van hasta tu casa para ayudarte a tu problema,lugar donde puede llevar sus aparatos de computo y tambien servicio via telefonico
+**_SOPORTE TECNICO: Tenemos operadores que van hasta tu casa para ayudarte a tu problema,lugar donde puede llevar sus aparatos de computo y tambien servicio via telefonico_**
 
