@@ -20,3 +20,4 @@ intro_image_ratio: is-16by9
 ```
 
 Only the intro is required if you want to display it. If you don't want an image then don't specify one and just the intro text will display.
+  
