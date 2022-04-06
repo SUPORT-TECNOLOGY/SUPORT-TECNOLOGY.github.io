@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: UBICACION
+image: https://d500.epimg.net/cincodias/imagenes/2015/10/29/lifestyle/1446136907_063470_1446137018_noticia_normal.jpg
 ---
 
 **_La empresa Suport-Tecnology , se ubica en la Plaza Cuidad Jardin a lado de Sears hay pueden llevar sus equipos para arreglarlos o si tambien tenemos servicio presencial como ir a su casa o tambien servicio a distancia por llamada nuestro numero es 5591398302 esperamos que nos visiten a la direccion que pusimos o por llamada._**
