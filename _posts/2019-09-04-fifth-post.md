@@ -3,6 +3,7 @@ layout: post
 title: CONTACTO
 author: MANUEL RODRIGUEZ LAZCANO
 intro: DONDE CONTACTARNOS
+image: https://asopyme.org/wp-content/uploads/2015/10/benchmarkmail.jpg
 ---
 <form action="https://formspree.io/f/xbjwaowz" method="post">
 Nombre: <input type="text" name="name"><br>
