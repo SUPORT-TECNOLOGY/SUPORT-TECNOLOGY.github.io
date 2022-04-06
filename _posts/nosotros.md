@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: NOSOTROS
+image: https://previews.123rf.com/images/jemastock/jemastock1611/jemastock161101589/65357256-concepto-de-red-social-representada-por-la-computadora-port%C3%A1til-y-el-dise%C3%B1o-de-personas-avatar-ilust.jpg
 ---
 
 "Esta empresa cuenta con 4 años de experiencia y busca dar el mejor servicio posible a todos nuestros clientes aparte de ganarnos su confianza y sigan con nosotros contamos con servicio presencial hasta la puerta de su casa o a distancia también contamos con local."
