@@ -2,8 +2,7 @@
 title: SERVICIOS
 author: PRESENCIAL, DISTANCIA
 intro: ¿QUE SERVICIOS TENEMOS?
-intro_image: /img/home.jpg
-intro_image_ratio: is-16by9
+image: https://www.bodegadecomputadoras.com.mx/images/rep.png
 ---
 
 **_CONTAMOS CON VARIOS SERVICIOS COMO_**
