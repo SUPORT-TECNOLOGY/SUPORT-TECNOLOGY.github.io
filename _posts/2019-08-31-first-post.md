@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: FAQ
-image: /img/home.jpg
+image: https://p1.pxfuel.com/preview/562/443/681/question-question-mark-help-response-royalty-free-thumbnail.jpg
 ---
 
 **_PREGUNTAS FRECUENTES_**
