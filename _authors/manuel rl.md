@@ -3,7 +3,7 @@ short_name: R.L Manuel
 title: R.L Manuel  - web dev and author
 name: R.L Manuel
 position: Web Designer
-description: R.L Manuel is a web developer and a part time author, specialising in Laravel, Vue.js and developing Jekyll themes.
+description: R.L Manuel es el desarrollador web y autor a tiempo parcial, especialemnte en Lavarel, Vue.js y desarrollador de temas lekyll.
 avatar: /img/avatar.png
 website: https://www.csrhymes.com
 facebook: https://www.facebook.com/
